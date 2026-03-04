@@ -66,9 +66,6 @@ to-do-list
 │       │       ├── controller
 │       │       │   ├── TaskControllerWebMvcTest.java
 │       │       │   └── CategoryControllerWebMvcTest.java
-│       │       ├── controller
-│       │       │   ├── TaskControllerRestTemplateTest.java
-│       │       │   └── CategoryControllerRestTemplateTest.java
 │       │       └── repository
 │       │           └── TaskRepositoryTest.java    // @DataJpaTest + H2 + Liquibase
 │       └── resources
